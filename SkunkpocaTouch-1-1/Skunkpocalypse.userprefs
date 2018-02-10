@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Generate_Skunks.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Player_skunk.cs" Line="79" Column="45" />
+      <File FileName="Assets/Scripts/Destination_script.cs" Line="30" Column="4" />
+      <File FileName="Assets/Scripts/goal_script.cs" Line="27" Column="1" />
+      <File FileName="Assets/Scripts/Skunky.cs" Line="32" Column="25" />
+      <File FileName="Assets/Scripts/Generate_Skunks.cs" Line="17" Column="26" />
+      <File FileName="Assets/Scripts/Camera_script.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Building_script.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Enterance.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Health_Bar.cs" Line="1" Column="1" />
+      <File FileName="../Conn Sophomore/Spring Semester Sophomore/COM217 - Entertainment Software Design/Breakout/Breakout/Assets/Scripts/BlockGrid.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Joystick_script.cs" Line="9" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
